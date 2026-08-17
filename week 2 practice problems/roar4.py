@@ -1,0 +1,1 @@
+print("roar\n"*3, end="")
